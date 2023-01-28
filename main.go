@@ -1,11 +1,7 @@
 /**
 Monitoria de serviço HTTP
 
-Esse projeto é uma simulçao de monotoria de serviços, para elaboração criamos um arquivos CSV chamado "lista-servidores.csv"
-e assim que resultar terá a informação dos status do servidores que estão com conexão, o tempo de resposta e a inofromação da URL
-e para os que estão com falhas é criado um arquivo com as informação do status.
-
-para realizar o teste basta passar no terminal > go run main.go lista-servidores.csv <nome_do_seu_arquivo.csv>
+Esse projeto é uma simulçao de monotoria de serviços
 **/
 
 package main
